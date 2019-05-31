@@ -1,2 +1,2 @@
 # QRCode
-![code image](https://github.com/wangxiaocan/QRCode/raw/master/IMG_0055.jpg)
+iOS自带二维码、条形码识别

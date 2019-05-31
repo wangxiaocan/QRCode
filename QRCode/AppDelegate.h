@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  QRCode
 //
-//  Created by wangwenke on 16/4/12.
-//  Copyright © 2016年 wangwenke. All rights reserved.
+//  Created by 王文科 on 2019/5/29.
+//  Copyright © 2019 xiaocan. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

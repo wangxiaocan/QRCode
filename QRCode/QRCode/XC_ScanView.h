@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  XC_ScanView.h
 //  QRCode
 //
 //  Created by 王文科 on 2019/5/29.
@@ -8,8 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface XC_ScanView : UIView
+
+- (void)startAnimation;
+- (void)stopAnimation;
 
 @end
 
+NS_ASSUME_NONNULL_END
